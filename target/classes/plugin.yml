@@ -1,0 +1,4 @@
+name: SMGang
+version: 1.0-SNAPSHOT
+main: smgang.smgang.SMGang
+api-version: 1.13
