@@ -21,11 +21,28 @@ public class Guild {
 
         public void AddGuildMember(Player p){
                 members.add(p);
-                Bukkit.broadcastMessage("Dodana nowy członek gangu "+guildName+":"+guildName);
+                Bukkit.broadcastMessage("Dodana nowy członek gangu "+guildName+":"+p.getName());
         }
 
         public void RemoveGuildMember(Player p){
                 members.remove(p);
-                Bukkit.broadcastMessage("Usunięty członek gangu "+guildName+":"+guildName);
+                Bukkit.broadcastMessage("Usunięty członek gangu "+guildName+":"+p.getName());
+        }
+
+        public boolean InGuild(Player p){
+                for(Player pl:members){
+                        if(pl.equals(p)) return true;
+                }
+                return false;
+        }
+
+        public void PlayerList(){
+                for(Player p:members){
+                        Bukkit.broadcastMessage("Żółtodziub:"+guildName+":"+p.getName());
+                }
+        }
+
+        public String GetName(){
+                return guildName;
         }
 }

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af45add2-f164-40df-b2bd-3a00516a1b18" name="Default Changelist" comment="" />
+    <list default="true" id="af45add2-f164-40df-b2bd-3a00516a1b18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smgang/smgang/Guild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smgang/smgang/Guild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smgang/smgang/GuildManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smgang/smgang/GuildManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smgang/smgang/SMGang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smgang/smgang/SMGang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smgang/smgang/commands/CreateGuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smgang/smgang/commands/CreateGuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SMGang-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SMGang-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SMGang-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SMGang-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-SMGang-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SMGang-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1le4yVoDi7MgChWen3vBc1s04p7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,29 +87,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1545" height="187" key="GridCell.Tab.0.bottom" timestamp="1607950065997">
+    <state x="2284" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1608199552090">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
-    <state width="1545" height="187" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1607950065997" />
-    <state width="1545" height="187" key="GridCell.Tab.0.center" timestamp="1607950065997">
+    <state x="2284" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608199552090" />
+    <state width="1637" height="187" key="GridCell.Tab.0.bottom" timestamp="1608211768893">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="187" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1608211768893" />
+    <state width="1545" height="187" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608204831482" />
+    <state width="1637" height="187" key="GridCell.Tab.0.center" timestamp="1608211768892">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="187" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1608211768892" />
+    <state width="1545" height="187" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608204831482" />
+    <state width="1637" height="187" key="GridCell.Tab.0.left" timestamp="1608211768892">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="187" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1608211768892" />
+    <state width="1545" height="187" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608204831482" />
+    <state width="1637" height="187" key="GridCell.Tab.0.right" timestamp="1608211768892">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="187" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@0.0.1680.1010" timestamp="1608211768892" />
+    <state width="1545" height="187" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608204831482" />
+    <state x="2228" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1608022140608">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
-    <state width="1545" height="187" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1607950065997" />
-    <state width="1545" height="187" key="GridCell.Tab.0.left" timestamp="1607950065997">
-      <screen x="1680" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1545" height="187" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1607950065997" />
-    <state width="1545" height="187" key="GridCell.Tab.0.right" timestamp="1607950065997">
-      <screen x="1680" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1545" height="187" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1607950065997" />
+    <state x="2228" y="412" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1608022140608" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/smgang/smgang/SMGang.java</url>
-          <line>16</line>
+          <line>17</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

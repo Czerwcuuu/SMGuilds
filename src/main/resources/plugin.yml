@@ -2,3 +2,6 @@ name: SMGang
 version: ${project.version}
 main: smgang.smgang.SMGang
 api-version: 1.13
+commands:
+  gang:
+    description: Tworzenie gildii

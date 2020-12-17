@@ -2,6 +2,7 @@ package smgang.smgang;
 
 import com.google.gson.Gson;
 import org.bukkit.plugin.java.JavaPlugin;
+import smgang.smgang.commands.CreateGuild;
 
 public final class SMGang extends JavaPlugin {
 
@@ -9,7 +10,7 @@ public final class SMGang extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        this.getCommand("gang").setExecutor(new CreateGuild());
     }
 
     @Override
